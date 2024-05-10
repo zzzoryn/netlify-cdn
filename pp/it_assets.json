@@ -1,0 +1,412 @@
+{
+"custom_object_records": [
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48MTNSTZHDY3PVCDD2Q7.json",
+"id": "01HPRR48MTNSTZHDY3PVCDD2Q7",
+"name": "iPhone 13",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-02-01T00:00:00+00:00",
+"location": "01HPRQ7DFCGYVHFYWGKZEEYEX6",
+"notes": "Screen protector application",
+"owner": "22592352056849",
+"supplier": "22592352056465",
+"type": "phone",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:42:40Z",
+"external_id": "PHN001"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48Y2HY90FRKA10HGN7PR.json",
+"id": "01HPRR48Y2HY90FRKA10HGN7PR",
+"name": "iPad Air",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-03-15T00:00:00+00:00",
+"location": "01HPRQ7DEM00QNF47C45X4PGCN",
+"notes": "Add to inventory management list",
+"owner": "22592352056465",
+"supplier": "22592352056721",
+"type": "tablet",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "TAB004"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48R8MCDDPH8X1DEVWNWT.json",
+"id": "01HPRR48R8MCDDPH8X1DEVWNWT",
+"name": "AirPods Max",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-04-01T00:00:00+00:00",
+"location": "01HPRQ7DGE8THZNKQAZ6SHKGF9",
+"notes": "Pair with all Apple devices",
+"owner": "22592352056849",
+"supplier": "22592352055825",
+"type": "headset",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "HST003"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48PNSK0YG8RVJ1ZVZ3CH.json",
+"id": "01HPRR48PNSK0YG8RVJ1ZVZ3CH",
+"name": "Google Earbuds",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Google",
+"installation_date": "2022-10-10T00:00:00+00:00",
+"location": "01HPRQ7DG6Q2V2YWW0SJ2J1PM1",
+"notes": "Inspect for wear and tear",
+"owner": "22592352056977",
+"supplier": "22592352055953",
+"type": "headset",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "HST004"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48PMHBHTGVMJGFQY9ZE1.json",
+"id": "01HPRR48PMHBHTGVMJGFQY9ZE1",
+"name": "Surface Headphones",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Microsoft",
+"installation_date": "2023-01-20T00:00:00+00:00",
+"location": "01HPRQ7DGFG5BH9V8C3EKB5PQT",
+"notes": "Check microphone sensitivity",
+"owner": "22592352056721",
+"supplier": "22592352056977",
+"type": "headset",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "HST002"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48P5TH6Y9S1YBDV07QSG.json",
+"id": "01HPRR48P5TH6Y9S1YBDV07QSG",
+"name": "Surface Go",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Microsoft",
+"installation_date": "2023-02-28T00:00:00+00:00",
+"location": "01HPRQ7DEPYYZEXY8D7GRRQ3DK",
+"notes": "Install Office 365 apps",
+"owner": "22592352056337",
+"supplier": "22592352056593",
+"type": "tablet",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "TAB003"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48P3NNB07TK8SF73EXW3.json",
+"id": "01HPRR48P3NNB07TK8SF73EXW3",
+"name": "Pixel Buds",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Google",
+"installation_date": "2022-12-01T00:00:00+00:00",
+"location": "01HPRQ7DKMG4SZBJE7WY6YP3ZZ",
+"notes": "Adjust settings for optimal sound",
+"owner": "22592352056593",
+"supplier": "22592352056849",
+"type": "headset",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "HST001"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48NZE1006YGX4FS6Y36N.json",
+"id": "01HPRR48NZE1006YGX4FS6Y36N",
+"name": "Surface Duo",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Microsoft",
+"installation_date": "2022-08-05T00:00:00+00:00",
+"location": "01HPRQ7DETB7CYQ46WFT1599RH",
+"notes": "Sync with Microsoft services",
+"owner": "22592352055953",
+"supplier": "22592352056209",
+"type": "phone",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "PHN004"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48NCF37R7HM684D1QB6S.json",
+"id": "01HPRR48NCF37R7HM684D1QB6S",
+"name": "Pixel Slate",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Google",
+"installation_date": "2022-07-15T00:00:00+00:00",
+"location": "01HPRQ7DES6320GP0S02524MPZ",
+"notes": "Check compatibility with Google Workspace",
+"owner": "22592352056209",
+"supplier": "22592352056465",
+"type": "tablet",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "TAB002"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48MSZN0W904YW4K3YCF4.json",
+"id": "01HPRR48MSZN0W904YW4K3YCF4",
+"name": "iPad Pro",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-01-10T00:00:00+00:00",
+"location": "01HPRQ7DES9B30GYXXA3SVSSKG",
+"notes": "Enroll in device management system",
+"owner": "22592352056081",
+"supplier": "22592352056337",
+"type": "tablet",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "TAB001"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48MREC0TQF8XB07Q2G1G.json",
+"id": "01HPRR48MREC0TQF8XB07Q2G1G",
+"name": "iPhone SE",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-04-10T00:00:00+00:00",
+"location": "01HPRQ7DEXVSX226A5F65G87PG",
+"notes": "Set up Apple ID",
+"owner": "22592352055825",
+"supplier": "22592352056081",
+"type": "phone",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "PHN003"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48MC4AK1PXAE1MB7NDXX.json",
+"id": "01HPRR48MC4AK1PXAE1MB7NDXX",
+"name": "iMac",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2022-12-10T00:00:00+00:00",
+"location": "01HPRQ7DFVKAR19WMS14071R3Q",
+"notes": "Monitor calibration needed",
+"owner": "22592352056337",
+"supplier": "22592352056593",
+"type": "desktop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "DES001"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48MB22PHTGFJYD4DH4K3.json",
+"id": "01HPRR48MB22PHTGFJYD4DH4K3",
+"name": "Chromebox",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Google",
+"installation_date": "2023-03-05T00:00:00+00:00",
+"location": "01HPRQ7DFP5FH1PDH69X6A9MJ4",
+"notes": "Install additional security software",
+"owner": "22592352056593",
+"supplier": "22592352056849",
+"type": "desktop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "DES003"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48KZMAFFMMJP3DMZ89BT.json",
+"id": "01HPRR48KZMAFFMMJP3DMZ89BT",
+"name": "MacBook Air",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-02-20T00:00:00+00:00",
+"location": "01HPRQ7DG6Q2V2YWW0SJ2J1PM1",
+"notes": "Add RAM upgrade to next service",
+"owner": "22592352056209",
+"supplier": "22592352056465",
+"type": "laptop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "LAP004"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48KWRR4XA0BV8G5PW82P.json",
+"id": "01HPRR48KWRR4XA0BV8G5PW82P",
+"name": "Surface Studio",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Microsoft",
+"installation_date": "2022-10-15T00:00:00+00:00",
+"location": "01HPRQ7DFDY1AAP9ZACTKWNKX8",
+"notes": "Check for updates on graphics drivers",
+"owner": "22592352056721",
+"supplier": "22592352056977",
+"type": "desktop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "DES004"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48KVRJR23BSF7SJB6SXR.json",
+"id": "01HPRR48KVRJR23BSF7SJB6SXR",
+"name": "Mac Mini",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-01-22T00:00:00+00:00",
+"location": "01HPRQ7DFSA84ANT45JHAJG9EY",
+"notes": "Upgrade to latest OS version",
+"owner": "22592352056465",
+"supplier": "22592352056721",
+"type": "desktop",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "DES002"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48KMT7W99Y2B7DAV770Q.json",
+"id": "01HPRR48KMT7W99Y2B7DAV770Q",
+"name": "Pixelbook Go",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Google",
+"installation_date": "2022-11-30T00:00:00+00:00",
+"location": "01HPRQ7DGE8THZNKQAZ6SHKGF9",
+"notes": "Scheduled for hardware diagnostics",
+"owner": "22592352056081",
+"supplier": "22592352056337",
+"type": "laptop",
+"warranty": false
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "LAP003"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48KMRVQVPWCMRC2XG84J.json",
+"id": "01HPRR48KMRVQVPWCMRC2XG84J",
+"name": "Surface Pro",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Microsoft",
+"installation_date": "2023-01-15T00:00:00+00:00",
+"location": "01HPRQ7DGFG5BH9V8C3EKB5PQT",
+"notes": "Check battery health",
+"owner": "22592352055953",
+"supplier": "22592352056209",
+"type": "laptop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "LAP002"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records/01HPRR48K7SV97N3XWPRYGMC5H.json",
+"id": "01HPRR48K7SV97N3XWPRYGMC5H",
+"name": "MacBook Pro",
+"custom_object_key": "it_asset",
+"custom_object_fields": {
+"brand": "Apple",
+"installation_date": "2023-03-01T00:00:00+00:00",
+"location": "01HPRQ7DKMG4SZBJE7WY6YP3ZZ",
+"notes": "Requires macOS update",
+"owner": "22592352055825",
+"supplier": "22592352056081",
+"type": "laptop",
+"warranty": true
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:41:52Z",
+"updated_at": "2024-02-16T10:41:52Z",
+"external_id": "LAP001"
+}
+],
+"meta": {
+"has_more": false,
+"after_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpQQTd6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSTBPRXMzVTFZNU4wNHpXRmRRVWxsSFRVTTFTQT09In0=",
+"before_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpDQTh6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSTBPRTFVVGxOVVdraEVXVE5RVmtORVJESlJOdz09In0="
+},
+"links": {
+"prev": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records.json?page%5Bbefore%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpDQTh6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSTBPRTFVVGxOVVdraEVXVE5RVmtORVJESlJOdz09In0%3D",
+"next": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/it_asset/records.json?page%5Bafter%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpQQTd6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSTBPRXMzVTFZNU4wNHpXRmRRVWxsSFRVTTFTQT09In0%3D"
+}
+}

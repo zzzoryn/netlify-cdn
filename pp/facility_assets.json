@@ -1,0 +1,453 @@
+{
+  "custom_object_records": [
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6K4PE39TB91YXWB4EMW.json",
+      "id": "01HPRRG6K4PE39TB91YXWB4EMW",
+      "name": "BrewStation Deluxe",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Lavazza",
+        "installation_date": "2022-10-10T00:00:00+00:00",
+        "location": "01HPRQ7DG6Q2V2YWW0SJ2J1PM1",
+        "notes": "Check and clean drip trays daily",
+        "owner": "22592352056977",
+        "serial": "2345678901234560",
+        "supplier": "22592352055953",
+        "type": "coffee_machine",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "HST004"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6K02SN62WV8GEZDS959.json",
+      "id": "01HPRRG6K02SN62WV8GEZDS959",
+      "name": "Hydration Hub 2000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "PepsiCo",
+        "installation_date": "2023-03-05T00:00:00+00:00",
+        "location": "01HPRQ7DFP5FH1PDH69X6A9MJ4",
+        "notes": "Validate currency acceptor weekly",
+        "owner": "22592352056593",
+        "serial": "7890123456789012",
+        "supplier": "22592352056849",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "DES003"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6JRBEP7ESB381E7DGGD.json",
+      "id": "01HPRRG6JRBEP7ESB381E7DGGD",
+      "name": "Espresso Elite 7000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Nespresso",
+        "installation_date": "2022-10-15T00:00:00+00:00",
+        "location": "01HPRQ7DFDY1AAP9ZACTKWNKX8",
+        "notes": "Check espresso quality and temperature settings",
+        "owner": "22592352056721",
+        "serial": "8901234567890123",
+        "supplier": "22592352056977",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "DES004"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6JH38YPPYJ2GY1PQ7RV.json",
+      "id": "01HPRRG6JH38YPPYJ2GY1PQ7RV",
+      "name": "ZapCharge Ultra",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "EVgo",
+        "installation_date": "2023-01-20T00:00:00+00:00",
+        "location": "01HPRQ7DGFG5BH9V8C3EKB5PQT",
+        "notes": "Ensure all signage and instructions are visible",
+        "owner": "22592352056721",
+        "serial": "0123456789012345",
+        "supplier": "22592352056977",
+        "type": "electric_charger",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "HST002"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6JGA0FRBQ737W3YWK6C.json",
+      "id": "01HPRRG6JGA0FRBQ737W3YWK6C",
+      "name": "Java Station X1000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Mr. Coffee",
+        "installation_date": "2022-12-01T00:00:00+00:00",
+        "location": "01HPRQ7DKMG4SZBJE7WY6YP3ZZ",
+        "notes": "Monitor water filter and replace as needed",
+        "owner": "22592352056593",
+        "serial": "9012345678901234",
+        "supplier": "22592352056849",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "HST001"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6J89BT866V2FVARMBNR.json",
+      "id": "01HPRRG6J89BT866V2FVARMBNR",
+      "name": "SnackPoint Mini",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Dixie Narco",
+        "installation_date": "2022-09-20T00:00:00+00:00",
+        "location": "01HPRQ7DF5YX0KPJBETJCP1BKM",
+        "notes": "Check product expiration dates regularly",
+        "owner": "22592352056977",
+        "serial": "0123456789012345",
+        "supplier": "22592352055953",
+        "type": "vending_machine",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "PHN002"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6J6JHNZXTTGGWVWC0AV.json",
+      "id": "01HPRRG6J6JHNZXTTGGWVWC0AV",
+      "name": "AutoSnack 6000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "MEI",
+        "installation_date": "2023-04-01T00:00:00+00:00",
+        "location": "01HPRQ7DGE8THZNKQAZ6SHKGF9",
+        "notes": "Regularly update the product selection and pricing",
+        "owner": "22592352056849",
+        "serial": "1234567890123450",
+        "supplier": "22592352055825",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "HST003"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6HNT69W8VYK9YWT77X3.json",
+      "id": "01HPRRG6HNT69W8VYK9YWT77X3",
+      "name": "CafeBrew Master 2200",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Hamilton Beach",
+        "installation_date": "2022-07-15T00:00:00+00:00",
+        "location": "01HPRQ7DES6320GP0S02524MPZ",
+        "notes": "Calibrate for consistent coffee strength",
+        "owner": "22592352056209",
+        "serial": "6789012345678901",
+        "supplier": "22592352056465",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "TAB002"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6HNRDV68K3J1KK7AVN1.json",
+      "id": "01HPRRG6HNRDV68K3J1KK7AVN1",
+      "name": "QuickCharge Pod 75kW",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Blink",
+        "installation_date": "2023-02-28T00:00:00+00:00",
+        "location": "01HPRQ7DEPYYZEXY8D7GRRQ3DK",
+        "notes": "Schedule usage to avoid peak hours for energy saving",
+        "owner": "22592352056337",
+        "serial": "7890123456789012",
+        "supplier": "22592352056593",
+        "type": "electric_charger",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "TAB003"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6HFK05JNCWW8E2ZDARJ.json",
+      "id": "01HPRRG6HFK05JNCWW8E2ZDARJ",
+      "name": "Refresh-o-Matic 5000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Royal Vendors",
+        "installation_date": "2023-03-15T00:00:00+00:00",
+        "location": "01HPRQ7DEM00QNF47C45X4PGCN",
+        "notes": "Check vending machine lighting and display",
+        "owner": "22592352056465",
+        "serial": "8901234567890123",
+        "supplier": "22592352056721",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "TAB004"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6HD7FGH41C7Q9JZXY3J.json",
+      "id": "01HPRRG6HD7FGH41C7Q9JZXY3J",
+      "name": "Refreshment Station XL",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Selecta",
+        "installation_date": "2023-02-20T00:00:00+00:00",
+        "location": "01HPRQ7DG6Q2V2YWW0SJ2J1PM1",
+        "notes": "Ensure payment system is functional",
+        "owner": "22592352056209",
+        "serial": "4567890123456789",
+        "supplier": "22592352056465",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "LAP004"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6HB62090A73XKT1CSRY.json",
+      "id": "01HPRRG6HB62090A73XKT1CSRY",
+      "name": "EV PowerStation 50",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "AeroVironment",
+        "installation_date": "2022-08-05T00:00:00+00:00",
+        "location": "01HPRQ7DETB7CYQ46WFT1599RH",
+        "notes": "Verify emergency stop functionality",
+        "owner": "22592352055953",
+        "serial": "0987654321098765",
+        "supplier": "22592352056209",
+        "type": "electric_charger",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "PHN004"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6H6NSC41QJZNPZDFRTA.json",
+      "id": "01HPRRG6H6NSC41QJZNPZDFRTA",
+      "name": "Barista Pro 5000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Starbucks",
+        "installation_date": "2023-01-15T00:00:00+00:00",
+        "location": "01HPRQ7DGFG5BH9V8C3EKB5PQT",
+        "notes": "Regular maintenance of coffee grinders",
+        "owner": "22592352055953",
+        "serial": "2345678901234567",
+        "supplier": "22592352056209",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "LAP002"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6H4HMJ05FGF9FFZJZDA.json",
+      "id": "01HPRRG6H4HMJ05FGF9FFZJZDA",
+      "name": "Ultimate Vendor 4000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Vendo",
+        "installation_date": "2023-01-10T00:00:00+00:00",
+        "location": "01HPRQ7DES9B30GYXXA3SVSSKG",
+        "notes": "Ensure proper refrigeration temperature",
+        "owner": "22592352056081",
+        "serial": "5678901234567890",
+        "supplier": "22592352056337",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "TAB001"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6H3DTKRDMZPVMMTX7B1.json",
+      "id": "01HPRRG6H3DTKRDMZPVMMTX7B1",
+      "name": "Caffeine Maker 800",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Keurig",
+        "installation_date": "2022-12-10T00:00:00+00:00",
+        "location": "01HPRQ7DFVKAR19WMS14071R3Q",
+        "notes": "Descale every two weeks to prevent buildup",
+        "owner": "22592352056337",
+        "serial": "5678901234567890",
+        "supplier": "22592352056593",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "DES001"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6H35D7YM6A88JF6GKXJ.json",
+      "id": "01HPRRG6H35D7YM6A88JF6GKXJ",
+      "name": "Supercharger V3",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "ChargePoint",
+        "installation_date": "2023-01-22T00:00:00+00:00",
+        "location": "01HPRQ7DFSA84ANT45JHAJG9EY",
+        "notes": "Monitor charging efficiency and report any issues",
+        "owner": "22592352056465",
+        "serial": "6789012345678901",
+        "supplier": "22592352056721",
+        "type": "electric_charger",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "DES002"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6GPG681NXMC13X2S30N.json",
+      "id": "01HPRRG6GPG681NXMC13X2S30N",
+      "name": "ChargePoint CPE200",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Tesla",
+        "installation_date": "2022-11-30T00:00:00+00:00",
+        "location": "01HPRQ7DGE8THZNKQAZ6SHKGF9",
+        "notes": "Check firmware updates monthly",
+        "owner": "22592352056081",
+        "serial": "3456789012345678",
+        "supplier": "22592352056337",
+        "type": "electric_charger",
+        "warranty": false
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "LAP003"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6GKRHTRYJBQ6RX5PKAR.json",
+      "id": "01HPRRG6GKRHTRYJBQ6RX5PKAR",
+      "name": "Coffee Corner 3000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Bunn",
+        "installation_date": "2023-04-10T00:00:00+00:00",
+        "location": "01HPRQ7DEXVSX226A5F65G87PG",
+        "notes": "Ensure water reservoir is refilled daily",
+        "owner": "22592352055825",
+        "serial": "1234509876543210",
+        "supplier": "22592352056081",
+        "type": "coffee_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "PHN003"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6GEPYP6MEBYDPW0K973.json",
+      "id": "01HPRRG6GEPYP6MEBYDPW0K973",
+      "name": "PowerDock 40kW",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Siemens",
+        "installation_date": "2023-02-01T00:00:00+00:00",
+        "location": "01HPRQ7DFCGYVHFYWGKZEEYEX6",
+        "notes": "Inspect cable integrity and connectors",
+        "owner": "22592352056849",
+        "serial": "9012345678901234",
+        "supplier": "22592352055825",
+        "type": "electric_charger",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "PHN001"
+    },
+    {
+      "url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records/01HPRRG6G26Q8CEBS14QPCKTW9.json",
+      "id": "01HPRRG6G26Q8CEBS14QPCKTW9",
+      "name": "Snack Dispenser 3000",
+      "custom_object_key": "facility_asset",
+      "custom_object_fields": {
+        "brand": "Coca-Cola",
+        "installation_date": "2023-03-01T00:00:00+00:00",
+        "location": "01HPRQ7DKMG4SZBJE7WY6YP3ZZ",
+        "notes": "Stock with assorted beverages and snacks",
+        "owner": "22592352055825",
+        "serial": "1234567890123456",
+        "supplier": "22592352056081",
+        "type": "vending_machine",
+        "warranty": true
+      },
+      "created_by_user_id": "387401320077",
+      "updated_by_user_id": "387401320077",
+      "created_at": "2024-02-16T10:48:23Z",
+      "updated_at": "2024-02-16T10:48:23Z",
+      "external_id": "LAP001"
+    }
+  ],
+  "meta": {
+    "has_more": false,
+    "after_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpIYzl6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSkhOa2N5TmxFNFEwVkNVekUwVVZCRFMxUlhPUT09In0=",
+    "before_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpIYzl6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSkhOa3MwVUVVek9WUkNPVEZaV0ZkQ05FVk5Wdz09In0="
+  },
+  "links": {
+    "prev": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records.json?page%5Bbefore%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpIYzl6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSkhOa3MwVUVVek9WUkNPVEZaV0ZkQ05FVk5Wdz09In0%3D",
+    "next": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/facility_asset/records.json?page%5Bafter%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpIYzl6MlVBQUFBQWN4b0FBQUF3TVVoUVVsSkhOa2N5TmxFNFEwVkNVekUwVVZCRFMxUlhPUT09In0%3D"
+  }
+}

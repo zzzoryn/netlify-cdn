@@ -1,0 +1,269 @@
+{
+"custom_object_records": [
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DKMG4SZBJE7WY6YP3ZZ.json",
+"id": "01HPRQ7DKMG4SZBJE7WY6YP3ZZ",
+"name": "Suburban Campus",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "473 Suburban Rd, Anytown, USA",
+"manager": "22592352055825",
+"type": "campus"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:07Z",
+"updated_at": "2024-02-16T10:26:07Z",
+"external_id": "CAMP3W4X5Y"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DGFG5BH9V8C3EKB5PQT.json",
+"id": "01HPRQ7DGFG5BH9V8C3EKB5PQT",
+"name": "West Campus",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "789 West Ave, Anytown, USA",
+"manager": "22592352056209",
+"type": "campus"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "CAMP9E0F1G"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DGE8THZNKQAZ6SHKGF9.json",
+"id": "01HPRQ7DGE8THZNKQAZ6SHKGF9",
+"name": "Uptown Store",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "862 Uptown St, Anytown, USA",
+"manager": "22592352056721",
+"type": "store"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC7T8U9V"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DG6Q2V2YWW0SJ2J1PM1.json",
+"id": "01HPRQ7DG6Q2V2YWW0SJ2J1PM1",
+"name": "North Plaza Store",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "654 North Plaza, Anytown, USA",
+"manager": "22592352055953",
+"type": "store"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC6K7L8M"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DFVKAR19WMS14071R3Q.json",
+"id": "01HPRQ7DFVKAR19WMS14071R3Q",
+"name": "Crossing Store",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "196 Crossing Ave, Anytown, USA",
+"manager": "22592352056721",
+"type": "store"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC1C2D3E"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DFSA84ANT45JHAJG9EY.json",
+"id": "01HPRQ7DFSA84ANT45JHAJG9EY",
+"name": "Crest Campus",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "678 Crest Park, Anytown, USA",
+"manager": "22592352056081",
+"type": "campus"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "CAMP0P1Q2R"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DFP5FH1PDH69X6A9MJ4.json",
+"id": "01HPRQ7DFP5FH1PDH69X6A9MJ4",
+"name": "Downtown Campus",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "987 Downtown Blvd, Anytown, USA",
+"manager": "22592352056849",
+"type": "campus"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "CAMP0N1O2P"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DFDY1AAP9ZACTKWNKX8.json",
+"id": "01HPRQ7DFDY1AAP9ZACTKWNKX8",
+"name": "Riverside Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "389 Riverside Circle, Anytown, USA",
+"manager": "22592352056977",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC3S4T5U"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DFCGYVHFYWGKZEEYEX6.json",
+"id": "01HPRQ7DFCGYVHFYWGKZEEYEX6",
+"name": "Southside Store",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "456 South St, Anytown, USA",
+"manager": "22592352056977",
+"type": "store"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC5B6C7D8"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DF5YX0KPJBETJCP1BKM.json",
+"id": "01HPRQ7DF5YX0KPJBETJCP1BKM",
+"name": "Lakeside Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "159 Lakeside Ln, Anytown, USA",
+"manager": "22592352056465",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC3Q4R5S"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DEXVSX226A5F65G87PG.json",
+"id": "01HPRQ7DEXVSX226A5F65G87PG",
+"name": "Metro Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "284 Metro St, Anytown, USA",
+"manager": "22592352056593",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC8Z9A0B"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DETB7CYQ46WFT1599RH.json",
+"id": "01HPRQ7DETB7CYQ46WFT1599RH",
+"name": "Central Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "123 Main St, Anytown, USA",
+"manager": "22592352055825",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC1A2B3C4"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DES9B30GYXXA3SVSSKG.json",
+"id": "01HPRQ7DES9B30GYXXA3SVSSKG",
+"name": "Summit Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "822 Summit Pl, Anytown, USA",
+"manager": "22592352056337",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC4I5J6K"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DES6320GP0S02524MPZ.json",
+"id": "01HPRQ7DES6320GP0S02524MPZ",
+"name": "Valley Store",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "549 Valley View Rd, Anytown, USA",
+"manager": "22592352056209",
+"type": "store"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC7L8M9N"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DEPYYZEXY8D7GRRQ3DK.json",
+"id": "01HPRQ7DEPYYZEXY8D7GRRQ3DK",
+"name": "Eastside Office",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "321 East Rd, Anytown, USA",
+"manager": "22592352056721",
+"type": "office"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "LOC2H3I4J"
+},
+{
+"url": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records/01HPRQ7DEM00QNF47C45X4PGCN.json",
+"id": "01HPRQ7DEM00QNF47C45X4PGCN",
+"name": "Gateway Campus",
+"custom_object_key": "location",
+"custom_object_fields": {
+"address": "307 Gateway Dr, Anytown, USA",
+"manager": "22592352056593",
+"type": "campus"
+},
+"created_by_user_id": "387401320077",
+"updated_by_user_id": "387401320077",
+"created_at": "2024-02-16T10:26:06Z",
+"updated_at": "2024-02-16T10:26:06Z",
+"external_id": "CAMP6F7G8H"
+}
+],
+"meta": {
+"has_more": false,
+"after_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpENDR6MlVBQUFBQWN4b0FBQUF3TVVoUVVsRTNSRVZOTURCUlRrWTBOME0wTlZnMFVFZERUZz09In0=",
+"before_cursor": "eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpEODR6MlVBQUFBQWN4b0FBQUF3TVVoUVVsRTNSRXROUnpSVFdrSktSVGRYV1RaWlVETmFXZz09In0="
+},
+"links": {
+"prev": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records.json?page%5Bbefore%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpEODR6MlVBQUFBQWN4b0FBQUF3TVVoUVVsRTNSRXROUnpSVFdrSktSVGRYV1RaWlVETmFXZz09In0%3D",
+"next": "https://pdi-premiumplustech.zendesk.com/api/v2/custom_objects/location/records.json?page%5Bafter%5D=eyJvIjoiLXVwZGF0ZWRfYXQsLWlkIiwidiI6IlpENDR6MlVBQUFBQWN4b0FBQUF3TVVoUVVsRTNSRVZOTURCUlRrWTBOME0wTlZnMFVFZERUZz09In0%3D"
+}
+}
